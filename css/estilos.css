@@ -1,12 +1,12 @@
-@import "mi-nav.css";
-@import "mi-footer.css";
-@import "listas.css";
+@import "nav.css";
+@import "footer.css";
+@import "lista.css";
 
 :root {
   font-family: sans-serif;
   --col-active: #4646462c;
   --color-header: white;
-  --colorMiNav: white;
+  --colorNav: white;
 }
 
 body {
